@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Elnur!
 - 👀 I’m interested in complex software systems: how to design, build, evovlve and host them.
-- 🌱 I’m currently learning TDD and some architecture stuff
+- 🌱 I’m currently learning some architecture stuff
 - 📫 You can reach me via Telegram @eln_mamedov
